@@ -1,5 +1,5 @@
 
-## KNOTO CLICKER
+## KNOTO CLICKER | clickerknot.netlify.app
 
 **Бесконечная кликер-игра с механикой перерождения, мини-играми и достижениями.**
 
